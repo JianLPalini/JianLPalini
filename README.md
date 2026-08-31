@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Sobre mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, gosto muito de tecnologia e desenvolvimento de software.  
-Atualmente, venho construindo minha experiência por meio de projetos práticos, explorando diferentes áreas do desenvolvimento — desde aplicações web e mobile até back-end, bancos de dados e integração com APIs.  
+Atualmente, venho construindo minha experiência por meio de projetos práticos, explorando diferentes áreas do desenvolvimento desde aplicações web e mobile até back-end, bancos de dados e integração com APIs.  
 
 Meu objetivo é transformar problemas reais em soluções simples, funcionais e bem estruturadas, enquanto continuo evoluindo como desenvolvedor.
 
