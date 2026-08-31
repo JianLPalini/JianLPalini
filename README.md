@@ -6,8 +6,8 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, gosto muito de tecnologia e desenvolvimento de software.  
-Atualmente, venho construindo minha experiência por meio de projetos práticos, explorando diferentes áreas do desenvolvimento desde aplicações web e mobile até back-end, bancos de dados e integração com APIs.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas e Tecnico em Desenvolvimento de Sistemas**, gosto muito de tecnologia e desenvolvimento de software.  
+Atualmente, venho construindo minha experiência por meio de projetos práticos, explorando diferentes áreas do desenvolvimento desde aplicações web e mobile até back-end (iniciante), bancos de dados e integração com APIs.  
 
 Meu objetivo é transformar problemas reais em soluções simples, funcionais e bem estruturadas, enquanto continuo evoluindo como desenvolvedor.
 
@@ -39,7 +39,6 @@ Meu objetivo é transformar problemas reais em soluções simples, funcionais e 
 **☕ Back-end & Bancos de Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
@@ -77,7 +76,6 @@ Meu objetivo é transformar problemas reais em soluções simples, funcionais e 
 
 ### 📚 Atualmente Focado em:
 - 📱 Aprofundamento em arquitetura mobile com **React Native** & **TypeScript**
-- ☕ Desenvolvimento back-end robusto com **Java** e **Spring Boot**
 - 🗄️ Modelagem, consultas e otimização de bancos de dados com **SQL / MySQL**
 - 🏗️ Padrões de arquitetura de software, Clean Code e APIs RESTful
 
@@ -98,10 +96,10 @@ Busco oportunidades no mercado onde possa aplicar meus conhecimentos em desenvol
 
 ### 📫 Vamos conversar?
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/jian-luca-palini-02120b174/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="mailto:jianpalini11@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
