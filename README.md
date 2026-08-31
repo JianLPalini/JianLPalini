@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, meu nome é Jian Palini!</h1>
-  <p><strong>💻 Desenvolvedor de Software | JavaScript • TypeScript • React Native • Java</strong></p>
+  <p><strong>💻 Desenvolvedor de Software | JavaScript • TypeScript • React Native</strong></p>
 </div>
 
 ---
